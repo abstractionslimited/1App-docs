@@ -24,16 +24,29 @@ Refer to this [link](https://docs.github.com/en/free-pro-team@latest/github/auth
 Clone the application using the following command.
 
 ```
-git clone [Repository_Git_SSH_URL]
+git clone git@gitlab.com:vodacomsa/digital-engineering/digital-channels/vodacom-cloud-app/my-vodacom-mono.git
 ```
 
 ## Building the application
 
-To build the application please run following command.
+To run the application please run the following command.
 
 ```
-[BUILD CMD]
+git clone https://bitbucket.orbit.prod.vodacom.co.za/scm/vca/my-vodacom-mono.git
+
+cd my-vodacom-mono
+
+npm install
+
+npm run build
+
+npm run dev
+
 ```
+
+
+
+The main container will listen on port 4000 and the widget will listen on port 3000. Once you reach this point, you have successfully cloned and set up the project for development.
 
 ## Docker setup
 
