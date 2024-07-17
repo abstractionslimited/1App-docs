@@ -27,7 +27,23 @@ Clone the application using the following command.
 git clone git@gitlab.com:vodacomsa/digital-engineering/digital-channels/vodacom-cloud-app/my-vodacom-mono.git
 ```
 
-## Building the application
+## Setup environments
+
+1. Navigate to `my-vodacom-app/vite.config.ts` and replace `/oath2` object with the following:
+
+```json
+  '/oauth2': {
+        target: 'https://appqa.vodacom.co.za',
+        changeOrigin: true,
+        secure: false
+      }
+```
+
+2. Navigate to `apps/my-vodacom-widget/src/environments.js` and update the following under `Local` environment
+   -  update `vpayParentOrigin`  to: `vpayParentOrigin: 'http://vodapay-m.test4.vfs.africa'`
+   -  Update
+
+## Running the application
 
 To run the application please run the following command.
 
@@ -48,6 +64,6 @@ npm run dev
 
 The main container will listen on port 4000 and the widget will listen on port 3000. Once you reach this point, you have successfully cloned and set up the project for development.
 
-## Docker setup
+##
 
 Follow the steps mentioned below to run the application in Docker.
