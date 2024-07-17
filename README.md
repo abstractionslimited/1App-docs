@@ -1,4 +1,4 @@
-# [Project] Wiki Template
+# 1 App Dev Docs
 
 This is a wiki template. I believe this is the minimum documentation each project should have.
 
