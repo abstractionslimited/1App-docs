@@ -30,6 +30,7 @@ git clone git@gitlab.com:vodacomsa/digital-engineering/digital-channels/vodacom-
 ## Setup environments
 
 1. Navigate to `my-vodacom-app/vite.config.ts` and replace `/oath2` object with the following:
+   
 
 ```json
   '/oauth2': {
@@ -39,10 +40,23 @@ git clone git@gitlab.com:vodacomsa/digital-engineering/digital-channels/vodacom-
       }
 ```
 
-2. Navigate to `apps/my-vodacom-widget/src/environments.js` and update the following under `Local` environment
-   -  update `vpayParentOrigin`  to: `vpayParentOrigin: 'http://vodapay-m.test4.vfs.africa'`
-   -  Update
 
+
+2. Navigate to `apps/my-vodacom-widget/src/environments.js` and update the following under `Local` environment
+
+   
+   -  update `vpayParentOrigin`  to: `vpayParentOrigin: 'http://vodapay-m.test4.vfs.africa'`
+  
+     
+3. Navigate to `apps/my-vodacom-app/src/environments.js` and uncomment the code below, this is useful for testing MVA container using the browser:
+
+
+  ```
+   useBrowser: {
+      msisdn: '27721506801',
+      password: 'Testing1'
+    }
+```
 ## Running the application
 
 To run the application please run the following command.
