@@ -96,7 +96,7 @@ The main container will listen on port 4000 and the widget will listen on port 3
 
 ### AWS 
 
-[14:58] Bitzer Havenga, Vodacom (External)
+
 https://us-east-1.console.aws.amazon.com/cloudfront/v4/home?region=us-east-1#/distributions/E1OZMRPJ97D006
  
 [14:58] Bitzer Havenga, Vodacom (External)
