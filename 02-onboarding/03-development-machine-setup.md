@@ -88,6 +88,10 @@ npm run dev
 
 The main container will listen on port 4000 and the widget will listen on port 3000. Once you reach this point, you have successfully cloned and set up the project for development.
 
-##
+## Configs
+
+- From my understanding when you run the stable TC build for x-config, it will overwrite the master build as well, so just need to run the build again afterward
+
+[Team City](https://teamcity.orbit.prod.vodacom.co.za/project/VodacomMobileBuilds_MyVodacomXConfig?mode=builds)
 
 Follow the steps mentioned below to run the application in Docker.
