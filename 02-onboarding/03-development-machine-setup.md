@@ -94,4 +94,16 @@ The main container will listen on port 4000 and the widget will listen on port 3
 
 [Team City](https://teamcity.orbit.prod.vodacom.co.za/project/VodacomMobileBuilds_MyVodacomXConfig?mode=builds)
 
+### AWS 
+
+[14:58] Bitzer Havenga, Vodacom (External)
+https://us-east-1.console.aws.amazon.com/cloudfront/v4/home?region=us-east-1#/distributions/E1OZMRPJ97D006
+ 
+[14:58] Bitzer Havenga, Vodacom (External)
+mva-static.nonprod.vodacom.co.za
+ 
+[15:00] Bitzer Havenga, Vodacom (External)
+Then from there, you can click on Invalidations tab, click on last Invalidations, copy to new, and then just edit object paths as needed
+ 
+
 Follow the steps mentioned below to run the application in Docker.
