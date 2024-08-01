@@ -4,5 +4,7 @@ For a new team member we need access to following services.
 
 | Service     | Details                                   | Required |
 | ----------- | ----------------------------------------- | -------- |
-| [Service 1] | [Follow these steps to get a new account] | [Yes/No] |
-
+| Gitlab      | Speak to SE                               | Yes |
+| Urban code deploy      | Bitzer Havenga or Michael Teles                        | Yes |
+| Urban code deploy      | Bitzer Havenga or Michael Teles                        | Yes |
+| Confluence      | Deolinda Valakoudis                       | Yes |
