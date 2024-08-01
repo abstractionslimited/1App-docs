@@ -8,3 +8,5 @@ For a new team member we need access to following services.
 | Urban code deploy      | Bitzer Havenga or Michael Teles                        | Yes |
 | Urban code deploy      | Bitzer Havenga or Michael Teles                        | Yes |
 | Confluence      | Deolinda Valakoudis                       | Yes |
+| Rocket Chat      | Deolinda Valakoudis                       | Yes |
+
