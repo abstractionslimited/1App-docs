@@ -180,6 +180,7 @@ Follow these steps to set up an Android emulator on your machine for testing pur
 6. **Use Test Data for Authentication**
 
    Use the provided test data for authentication on the authentication screen.
+
    ![image](https://github.com/user-attachments/assets/286c3a5b-537a-4625-bfa7-097eca4d9cb7)
 
 
@@ -194,4 +195,28 @@ Follow these steps to set up an Android emulator on your machine for testing pur
 9. **Click Submit and Test Your Widget Locally**
 
    Click **Submit** and verify that your widget is functioning correctly on the emulator.
+
+## Additional Instructions for iOS Testing
+
+Don’t bother yourself with trying to debug with your iOS device. It doesn’t work; it’s proven: Don’t try to be a hero. For more details, refer to the [VodaPay Container Testing Guide](https://vodacom.atlassian.net/wiki/spaces/PV/pages/315622675/PRD+162+MVA+VodaPay+Container#Testing-Widget).
+
+1. **Install Xcode**
+
+   Download and install [Xcode](https://developer.apple.com/xcode/) from the Mac App Store.
+
+2. **Open Simulator**
+
+   - Once Xcode is open, navigate to the Xcode menu in the menu bar.
+   - Select **Open Developer Tool > Simulator**.
+   - Alternatively, you can search for Simulator using Spotlight.
+
+3. **Select iOS Device**
+
+   - In the Simulator window, you’ll see a list of available iOS devices.
+   - Choose the device you want to simulate by clicking on it.
+   - You can simulate various iPhone and iPad models with different iOS versions.
+
+4. **Launch Your App**
+
+   - Perform steps 7 and 8 above to test your widget on the iOS Simulator.
 
