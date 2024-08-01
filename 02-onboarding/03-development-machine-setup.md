@@ -89,4 +89,5 @@ npm run dev
 
 The main container will listen on port `4000` and the widget will listen on port `3000`. Once you reach this point, you have successfully cloned and set up the project for development.
 
+[Successful launch](./assets/successful.png)
 
