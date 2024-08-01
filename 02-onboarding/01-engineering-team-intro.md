@@ -2,11 +2,11 @@
 
 ## Work Hours
 
-Team work from [X] to [Y] in [Timezone].
+Team work from 08:00 to 16:00 in [SA Time].
 
 ## Communication
 
-Team using [Tool] for communication. We are available on [Channel].
+Team uses Teams] for communication.
 
 ## Important Meetings
 
@@ -14,5 +14,5 @@ Below is the table of important events with their timing.
 
 | Meeting       | Time                     | Required       |
 | ------------- | ------------------------ | -------------- |
-| [Daily Scrum] | [10:00am to 10:30am IST] | [Yes/Optional] |
+| [Daily Scrum] | [09:30am to 10:00am IST] | Yes            |
 
