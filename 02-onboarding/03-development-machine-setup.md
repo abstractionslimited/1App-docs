@@ -87,24 +87,6 @@ npm run dev
 ```
 
 
-The main container will listen on port 4000 and the widget will listen on port 3000. Once you reach this point, you have successfully cloned and set up the project for development.
-
-## Configs
-
-- From my understanding when you run the stable TC build for x-config, it will overwrite the master build as well, so just need to run the build again afterward
-
-[Team City](https://teamcity.orbit.prod.vodacom.co.za/project/VodacomMobileBuilds_MyVodacomXConfig?mode=builds)
-
-### AWS 
+The main container will listen on port `4000` and the widget will listen on port `3000`. Once you reach this point, you have successfully cloned and set up the project for development.
 
 
-https://us-east-1.console.aws.amazon.com/cloudfront/v4/home?region=us-east-1#/distributions/E1OZMRPJ97D006
- 
-[14:58] Bitzer Havenga, Vodacom (External)
-mva-static.nonprod.vodacom.co.za
- 
-[15:00] Bitzer Havenga, Vodacom (External)
-Then from there, you can click on Invalidations tab, click on last Invalidations, copy to new, and then just edit object paths as needed
- 
-
-Follow the steps mentioned below to run the application in Docker.
