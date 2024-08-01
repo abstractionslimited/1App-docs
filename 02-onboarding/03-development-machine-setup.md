@@ -24,12 +24,13 @@ Refer to this [link](https://docs.github.com/en/free-pro-team@latest/github/auth
 Clone the application using the following command.
 
 
-- Clone the application using **SSH** or **HTTPS**
+- Clone the application using:
+    -  **SSH**
 
 ```
 git clone git@gitlab.com:vodacomsa/digital-engineering/digital-channels/vodacom-cloud-app/my-vodacom-mono.git
 ```
-
+      -  or **HTTPS**
 ```
 git clone https://gitlab.com/vodacomsa/digital-engineering/digital-channels/vodacom-cloud-app/my-vodacom-mono.git
 ```
