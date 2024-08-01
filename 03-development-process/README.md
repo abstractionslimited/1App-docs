@@ -84,3 +84,4 @@ This guide outlines the key steps required to ensure a smooth transition and suc
 - [ ] Unit tests are done for all business components.
 - [ ] Integration tests are done for the specified REST APIs.
 - [ ] Build is passing.
+- [ ] [Code Review Best Practices](https://roadmap.sh/best-practices/code-review)
