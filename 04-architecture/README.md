@@ -8,19 +8,9 @@ We plan to build the application using [Architecture] style.
 
 > We recommend building architecture using [Draw.io](https://app.diagrams.net/). Draw.io also has a desktop application.
 
-You can also document your architecture using [C4Model](https://c4model.com/).  We recommend C1(System Context) and C2(Container) diagrams.
-
-> C4 model is a lean graphical notation technique for modelling the architecture of software systems. It is based on a structural decomposition of a system into containers and components and relies on existing modelling techniques such as the Unified Modelling Language (UML) or Entity Relation Diagrams (ERD) for the more detailed decomposition of the architectural building blocks.
-
 ## Technologies
 
 The list of technologies we will use to build the application are as follows:
-
-## Technologies
-
-## Technologies
-
-## Technologies
 
 | Technology              | Purpose                                               | Version    |
 | ----------------------- | ----------------------------------------------------- | ---------- |
@@ -28,10 +18,7 @@ The list of technologies we will use to build the application are as follows:
 | **TypeScript**          | Superset of JavaScript that adds static types        | 5.1.3      |
 | **Yarn**                | Package manager for managing dependencies            | 1.22.19    |
 | **Turborepo**           | Monorepo tool for managing multiple packages         | 1.10.12    |
-| **Vite**                | Build tool and development server                    | 4.1.2      |
-| **Spring Boot**         | Backend framework for building Java applications     | 2.4.1      |
-| **Postgres**            | Relational database management system                | 13.1       |
-| **Java**                | Programming language used for backend development    | 11.0.9     |
+| **Vite**                | Build tool and development server                    | 4.1.2      
 | **Styled-components**   | Library for styling React components                 | 5.3.6      |
 | **Prettier**            | Code formatter for consistent style                  | Latest     |
 | **ESLint**              | Linter for identifying and fixing problems in code   | 8.47.0     |
