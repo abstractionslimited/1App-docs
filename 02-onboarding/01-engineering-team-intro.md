@@ -6,7 +6,7 @@ Team work from 08:00 to 16:00 in [SA Time].
 
 ## Communication
 
-Team uses Teams] for communication.
+Team uses Teams for communication.
 
 ## Important Meetings
 
