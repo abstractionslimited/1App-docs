@@ -23,15 +23,11 @@ Refer to this [link](https://docs.github.com/en/free-pro-team@latest/github/auth
 
 Clone the application using the following command.
 
-
-- Clone the application using:
-    -  **SSH**
-
-```
+``` shell
 git clone git@gitlab.com:vodacomsa/digital-engineering/digital-channels/vodacom-cloud-app/my-vodacom-mono.git
 ```
-      -  or **HTTPS**
-```
+
+```shell
 git clone https://gitlab.com/vodacomsa/digital-engineering/digital-channels/vodacom-cloud-app/my-vodacom-mono.git
 ```
 
@@ -111,42 +107,6 @@ Follow these steps to set up port-forwarding in your browser.
    ![image](https://github.com/user-attachments/assets/331b5510-7f4b-491f-bea9-8149ed82d496)
 
 4. After setting up the above, click done and set up your emulator.
-
-
-## Setting Up an Android Emulator for Local Testing
-
-Follow these steps to set up an Android emulator on your machine for testing purposes:
-
-1. **Download and Install Android Studio**
-
-   Download and install [Android Studio](https://developer.android.com/studio).
-
-2. **Verify Virtual Device Manager Capabilities**
-
-   Ensure that Android Studio has Virtual Device Manager capabilities.
-
-3. **Launch Android Studio and Open Virtual Device Manager**
-
-   - Open Android Studio.
-   - Navigate to **Virtual Device Manager**.
-
-   ![Virtual Device Manager](https://github.com/user-attachments/assets/988273e4-854e-4b1d-a431-aff8caa14339)
-
-4. **Create a Virtual Device**
-
-   - Click on **Create New Virtual Device**.
-   - Follow the prompts to configure your virtual device.
-
-5. **Install VodaPay Test APK Packages**
-
-   - Download the VodaPay test APK packages.
-   - Install the APK packages on your virtual device for testing.
-
-6. **Use Test Data for Authentication**
-
-   - Use the provided test data for authentication on the authentication screen.
-
-By following these steps, you'll have your Android emulator set up and ready for local testing.
 
 ## Setting Up an Android Emulator for Local Testing
 
